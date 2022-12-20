@@ -1,4 +1,4 @@
-# CÉSAR VALLEJO - escritor peruano
+# CÉSAR VALLEJO - Escritor peruano
 
 
 ![César Vallejo] 

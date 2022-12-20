@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+:root{
+    --text-color: #BF0628;
+    --bg-color: #F27272;
+    --color-secundario: #D91A1A;
+    --color-terciario: #F2F2F2;
+    --color-cuaternario: rgba(212, 212, 212, 0.788);
+}
+body{
+    background-image: url(https://img.freepik.com/vector-premium/fondo-dia-independencia-peru_115560-458.jpg?w=2000);
+    background-repeat: repeat;
+    font-family: 'Dancing Script', cursive;
+    border-color: var(--text-color);
+    border-style: groove;
+    border-radius: 5px;
+    border-top-color: var(--color-terciario);
+}
+.caja2{
+    font-size: 40px;
+    text-align: center;
+}
+.caja3{
+    font-size: 22px;
+    text-align: center;
+}
+.caja4{
+    font-size: 25px;
+    margin-left: 40px;
+}
+.caja5{
+    font-size: 25px;
+    margin-left: 40px;
+}
+.img1{
+    width: 600px;
+    height: 600px;
+    margin-left: 300px;
+}
